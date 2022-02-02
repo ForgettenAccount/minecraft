@@ -1,2 +1,2 @@
-1. [Official](mcpe/nether/official/index.md)
-1. [Beta](mcpe/nether/beta/index.md)
+1. [Official](official/index.md)
+1. [Beta](mcpe/beta/index.md)
