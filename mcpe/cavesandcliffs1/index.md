@@ -1,2 +1,2 @@
-1. [Official](official/index.md)
-1. [Beta](beta/index.md)
+1. [Official](official/)
+1. [Beta](beta/)
