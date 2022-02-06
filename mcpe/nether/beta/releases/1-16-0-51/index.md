@@ -159,3 +159,5 @@ Because let's face it, your aim could use some practice
     - Villagers
     - Wandering Trader
 
+## Sounds
+- Flying with elytra at high speeds no longer causes the sound to become jittery ([MCPE-19945](https://bugs.mojang.com/browse/MCPE-19945))
